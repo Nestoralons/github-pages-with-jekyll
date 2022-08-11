@@ -1,7 +1,7 @@
-title: titulo
-author: Nestoralons
-email: nestoralons
-description: titulo perron
+title: "titulo"
+author: "Nestoralons"
+email: "nestoralons"
+description: "titulo perron"
 
 # social links
 twitter_username: yddfde # DO NOT include the @ character, or else the build will fail!
